@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Digital Notebook</string>
+    <string name="authentication">Регистрация</string>
+    <string name="email">Почта</string>
+    <string name="password">Пароль</string>
+    <string name="login">Логин</string>
+    <string name="dont_have_account">У вас нет учетной записи? Нажмите здесь, чтобы зарегистрироваться</string>
+    <string name="name">Имя</string>
+    <string name="already_have_account">У вас уже есть учетная запись? Нажмите здесь, чтобы войти в систему</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+    <string name="ok">OK</string>
+
+</resources>

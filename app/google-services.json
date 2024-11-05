@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "968806271189",
+    "project_id": "digital-notebook-f50a2",
+    "storage_bucket": "digital-notebook-f50a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968806271189:android:de481a3347b6d26dfeba5c",
+        "android_client_info": {
+          "package_name": "com.example.digitalnotebook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968806271189-asdfn9irv18c073omnqkednbm5t8nrsn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitalnotebook",
+            "certificate_hash": "16824c35c7f35c7675078809d89d79ea022c784d"
+          }
+        },
+        {
+          "client_id": "968806271189-idsihk7jig2v1sv3722frg61kro698ds.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTZMf882bCI05rGpG_Mj7AMzZMyNrLrnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968806271189-idsihk7jig2v1sv3722frg61kro698ds.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
